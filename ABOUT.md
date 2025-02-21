@@ -1,0 +1,1 @@
+Ceci est un fichier ou l'on voit les infos sur le projet
